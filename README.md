@@ -46,6 +46,8 @@ This project demonstrates an AI-based traffic control system that:
    ```bash
    pytest -q
    ```
+## LINK TO THE SITE
+   http://127.0.0.1:5000
 
 ## How to upload this project to GitHub
 
